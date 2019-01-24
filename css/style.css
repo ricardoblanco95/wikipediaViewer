@@ -1,0 +1,70 @@
+body{
+  background-image:url("http://graphicdesignjunction.com/wp-content/uploads/2014/05/003+background+pattern+designs.jpg");
+  background-repeat: repeat;
+}
+
+h1{
+  font-family: Graduate, monospace;
+  user-select: none;
+  text-align: center;
+  color: white;
+  text-shadow: -4px 0px black, 0px 4px black, 4px 0px black, 0px -4px black;
+  font-size: 500%;
+}
+
+h4{
+  font-family: monospace;
+  user-select: none;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 200%;
+}
+
+#searchBar{
+  user-select: none;
+  padding-top: 50px;
+  margin-bottom: 30px;
+  font-size:200%;
+  text-align: center;
+}
+
+#searchText{
+  margin-right: 10px;
+}
+
+.btn{
+  font-family: impact;
+  font-size: 110%;
+}
+
+#listContainer{
+  overflow: auto;
+  background: white; 
+  border: 5px solid #110B65;
+  border-radius: 20px;
+  width: 80%;
+  height: 400px;
+  display: block;
+  margin:0px auto 0px auto; 
+  padding: 15px 10px 15px 10px;
+}
+
+#result{
+  font-family: Graduate;
+  font-size: 150%;
+  font-weigth: bold;
+  float: left;
+}
+
+#title{
+  font-family: Graduate, monospace;
+  font-size: 200%;
+  color:#110B65;
+  }
+
+#des{
+  font-family: Roboto;
+  font-size: 150%;
+  text-align: justify;
+}
